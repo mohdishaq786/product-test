@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/product-test/static/css/main.a229a48f.css",
-    "main.js": "/product-test/static/js/main.a68447b7.js",
+    "main.css": "/product-test/static/css/main.0e466441.css",
+    "main.js": "/product-test/static/js/main.ac7fa7a0.js",
     "static/js/488.9d88b767.chunk.js": "/product-test/static/js/488.9d88b767.chunk.js",
     "static/media/Screenshot 2024-12-22 074148.png": "/product-test/static/media/Screenshot 2024-12-22 074148.e3ca9a837e48bd1802af.png",
     "static/media/Screenshot 2024-12-21 075649.png": "/product-test/static/media/Screenshot 2024-12-21 075649.d6526ff30a670ef258f1.png",
     "static/media/logo3-removebg-preview-A85w98Br26fjqqOy.png": "/product-test/static/media/logo3-removebg-preview-A85w98Br26fjqqOy.00a7e726539d416dd1cd.png",
     "index.html": "/product-test/index.html",
-    "main.a229a48f.css.map": "/product-test/static/css/main.a229a48f.css.map",
-    "main.a68447b7.js.map": "/product-test/static/js/main.a68447b7.js.map",
+    "main.0e466441.css.map": "/product-test/static/css/main.0e466441.css.map",
+    "main.ac7fa7a0.js.map": "/product-test/static/js/main.ac7fa7a0.js.map",
     "488.9d88b767.chunk.js.map": "/product-test/static/js/488.9d88b767.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a229a48f.css",
-    "static/js/main.a68447b7.js"
+    "static/css/main.0e466441.css",
+    "static/js/main.ac7fa7a0.js"
   ]
 }
