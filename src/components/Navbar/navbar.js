@@ -35,10 +35,10 @@ const Navbar = () => {
         <Menu.Item key="1">
           <Link to="/">Home</Link>
         </Menu.Item>
-        <Menu.Item key="2">
+        {/* <Menu.Item key="2">
           <Link to="/features">Features</Link>
-        </Menu.Item>
-        <Menu.Item key="3">
+        </Menu.Item> */}
+        <Menu.Item key="2">
           <Link to="/contact">Contact</Link>
         </Menu.Item>
       </Menu>
