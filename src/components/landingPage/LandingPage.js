@@ -42,7 +42,7 @@ const LandingPage = () => {
 
       console.log("Payload being sent:", payload);
 
-      const url = "http://35.169.238.51/api/v1/process-car-image";
+      const url = SERVER_API_URL;
 
       const response = await axios.post(url, payload, {
         headers: {
